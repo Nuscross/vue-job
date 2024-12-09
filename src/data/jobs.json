@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "type": "Remote",
-      "title": "Job Name11",
-      "location": "Thailand",
-      "description": "Job Description",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Test Company",
-        "description": "Test Description",
-        "contactEmail": "test@email.com",
-        "contactPhone": "028374654"
-      },
-      "id": "fd02"
     }
   ]
 }
