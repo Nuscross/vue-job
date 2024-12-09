@@ -1,5 +1,9 @@
 How to run project
 
-On terminal run command : npm run serve
+On terminal run command : 
 
-Open other terminal and run command : npm run server
+- npm run serve
+
+- Open other terminal
+
+- npm run server
