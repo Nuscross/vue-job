@@ -2,7 +2,7 @@ How to run project
 
 On terminal run command : 
 
-- npm run serve
+- npm run dev
 
 - Open other terminal
 
