@@ -1,4 +1,4 @@
-1. How to run project
+How to run project
 
 Open terminal and run command : 
 
@@ -6,9 +6,9 @@ Open terminal and run command :
 
 - npm run dev
 
-//////////////////////////////////
+/*********************************/
 
-2. How to run json server
+How to run json server
 
 Open terminal and run command : 
 
