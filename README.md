@@ -6,7 +6,7 @@ Open terminal and run command :
 
 - npm run dev
 
-/*********************************/
+---------------------------------------------
 
 How to run json server
 
