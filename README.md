@@ -1,11 +1,14 @@
-How to run project
+1. How to run project
 
-On terminal run command : 
+Open terminal and run command : 
 
 - npm install
 
 - npm run dev
 
-- Open other terminal
+
+2. How to run json server
+
+Open terminal and run command : 
 
 - npm run server
